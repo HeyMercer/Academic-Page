@@ -31,4 +31,4 @@ highlight_name: true
 ---
 I am an undergraduate of Computer Science and Technology from Zhejiang University. My research interests include multi-modal representation, data mining and "AI + Medical care". I am now an student of AI lab at Zhejiang University, fortunately advised by [Yang Yang](https://yangy.org/).  I am also an member of Queshi Technology that aims to construct the [](javascript:void(0); "添加到收藏夹")intelligent decision system for drug use.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
