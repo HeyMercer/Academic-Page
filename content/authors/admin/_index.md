@@ -1,7 +1,7 @@
 ---
 title: Yunchao Zhang
 role: Undergraduate of Computer Science and Technology
-avatar_filename: img_2406.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include multi-modal fusion, data mining, medical care
 interests:
   - Data Mining
