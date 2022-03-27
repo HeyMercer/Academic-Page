@@ -30,7 +30,7 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        Related courses:
+        Related courses(3.75/4.0):
         
         * Data Structure(95)
         * AI in Fintech(97)
