@@ -25,7 +25,7 @@ experience:
   - title: Undergraduate of Computer Science and Technology
     company: Zhejiang University
     company_url: ''
-    company_logo: org-ZJU
+    company_logo: org-GC
     location: ZheJiang
     date_start: '2019-09-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Student
     company: Chengdu No.7 High School
     company_url: ''
-    company_logo: org-7
+    company_logo: org-X
     location: Chengdu
     date_start: '2016-09-01'
     date_end: '2019-06-08'
